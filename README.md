@@ -5,7 +5,7 @@
 ![Domain](https://img.shields.io/badge/Domain-Finite_State_Machine-lightgrey)
 
 ## Introduction
-This project simulates the control logic of a fully automated washing machine using **Verilog**. Developed and simulated in the **Xilinx ISE** environment, it relies on a robust Finite State Machine (FSM) to manage the strict sequence of operations required in a standard washing cycle.
+This project simulates the control logic of a fully automated washing machine using **Verilog**. Developed and simulated in the **Xilinx ISE** environment, it relies on a robust Finite State Machine (FSM) to manage the strict sequence of operations required in a standard washing cycle
 
 ---
 
